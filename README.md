@@ -41,7 +41,9 @@ A demonstration video showcases an execution flow of the updated application and
 
 ## Documentation
 
-The `docs/` directory contains the bachelor's thesis associated with this project, documenting its objectives, technical context, implementation approach, and interface improvements.
+The `docs/` directory contains:
+- the bachelor's thesis associated with this project, documenting its objectives, technical context, implementation approach, and interface improvements
+- a short presentation of the thesis
 
 ## Academic Context
 

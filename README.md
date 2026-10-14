@@ -37,7 +37,7 @@ The goal was to improve the user interface, introduce additional UI components, 
 
 A demonstration video showcases an execution flow of the updated application and illustrates the frontend changes in practice.
 
-**Demo video:** [Watch the demo](VIDEO_URL)
+**Demo video:** [Watch the demo](demo/demo.mp4)
 
 ## Documentation
 
